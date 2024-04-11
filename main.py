@@ -10,4 +10,4 @@ def twoSum(nums: List[int], target: int) -> List[int]:
                 AnswerList.append(i)
                 AnswerList.append(j)
                 
-    return AnswerList;
+    return AnswerList
